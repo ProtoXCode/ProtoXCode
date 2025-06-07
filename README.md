@@ -11,7 +11,7 @@
 - [Atlas Protocol](https://github.com/ProtoXCode/Atlas-Protocol) - Intent-driven digital design.
 - 🟢🟠🔴 KIEL - A kanban style Dash app that sorts orders based upon feasability and available materials.
 - 📔 SkillForge - A workforce skill management and equipment database, for documented training and maintenance logging.
-- 💻 Evacuation Dashboard - A Dash app for showing who is currently clocked in at work in case of emergancy and evacuation.
+- 💻 OnSite Presence Monitor - An evacuation dashboard, a Dash app for showing who is currently clocked in at work in case of emergancy and evacuation.
 - 🚧 ...and more.
 
 ---
