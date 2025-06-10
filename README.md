@@ -12,6 +12,7 @@
 - [OnSite Presence Monitor](https://github.com/ProtoXCode/OnSite-Presence-Monitor) - An evacuation dashboard, a Dash app for showing who is currently clocked in at work in case of emergancy and evacuation.
 - 🟢🟠🔴 KIEL - A kanban style Dash app that sorts orders based upon feasability and available materials.
 - 📔 SkillForge - A workforce skill management and equipment database, for documented training and maintenance logging.
+- ⚙️ Atlas-OCC Wrapper - A lightweight OCC wrapper built for Atlas Protocol.
 - 🚧 ...and more.
 
 ---
