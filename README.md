@@ -3,7 +3,8 @@
 ### About me:
 - 🏭Born in '81, Norwegian, factory worker since 1999, currently 20 years (and counting!) making distribution transformers ⚡.
 - 👨‍💻 Started learning Python december 2023, still learning every day.
-- 🔗 Interested **Industry 4.0/5.0**, **IoT** and **Digital Twins**.
+- 🔗 Interested in **Industry 4.0/5.0**, **IoT** and **Digital Twins**.
+- 💻 Looking into C++ and later Mojo.
 
 ---
 
