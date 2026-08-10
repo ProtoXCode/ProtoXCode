@@ -13,7 +13,6 @@
 - [Atlas Protocol](https://github.com/ProtoXCode/Atlas-Protocol) - Intent-driven digital design.
 - [Kiosk Rotation Engine](https://github.com/ProtoXCode/Kiosk-Rotation-Engine) - A simple, easy to use kiosk software. Just fire it up, point a web viewer towards the address, then put media into the folder.
 - [OnSite Presence Monitor](https://github.com/ProtoXCode/OnSite-Presence-Monitor) - An evacuation dashboard, a Dash app for showing who is currently clocked in at work in case of emergency and evacuation.
-- [Atlas-MCP](https://github.com/ProtoXCode/Atlas-MCP) - An attempt on local run AI agents doing Industry 4.0 things, heavy inspired by Walker Reynolds. It's a learning experience, and not worked on as I still got some huge books to go through before some actual progress happens.
 - [ProtoX Game Developer Kit (GDK)](https://github.com/ProtoXCode/Protox_GDK) - A modular retro-style game creation kit built in Python, featuring integrated editors for sprites, levels, and scenes - all sharing a unified, human-readable JSON format.
 - 🟢🟠🔴 KIEL - A kanban style Dash app that sorts orders based upon feasibility and available materials.
 - 📔 SkillForge - A workforce skill management and equipment database, for documented training and maintenance logging.
